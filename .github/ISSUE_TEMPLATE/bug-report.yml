@@ -55,7 +55,7 @@ body:
       description: "Which version of Node.js are you using?"
       placeholder: "14.17.6"
 
-  - type: dropdown
+  - type: checkboxes
     attributes:
       label: "In which operating systems have you tested?"
       options:
