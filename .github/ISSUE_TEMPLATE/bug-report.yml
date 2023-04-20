@@ -1,7 +1,6 @@
 name: 🐛 Bug Report
 description: Reporting a bug here
 labels: ["bug", "pending triage"]
-assignees: ["robinscholz"]
 body:
   - type: markdown
     attributes:
