@@ -1,7 +1,8 @@
-name: ✨Feature Request
+name: ✨ Feature Request
 description: Request a new feature or enhancement
 labels: ["enhancement"]
 title: "[FEAT]: "
+assigness: ["robinscholz"]
 body:
   - type: markdown
     attributes:
