@@ -1,1 +1,3 @@
-### This repository houses workflows, issue templates, pull request templates, funding information and more.
+# [.github]
+
+> This repository houses workflows, issue templates, pull request templates, profile information and more.
