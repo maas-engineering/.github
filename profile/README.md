@@ -1,1 +1,1 @@
-# Magic as a Service
+# Magic as a Service™
