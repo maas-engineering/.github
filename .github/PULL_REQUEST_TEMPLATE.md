@@ -2,23 +2,23 @@
 
 ### Before submitting the PR, please make sure you do the following
 
-- [ ] Check that there isn't already a PR that solves the problem the same way to avoid creating a duplicate.
+- [ ] Check that there isn’t a PR that solves the problem the same way.
 - [ ] Provide a description in this PR that addresses **what** the PR is solving, or reference the issue that it solves (e.g. `fixes #123`).
-- [ ] I have updated the documentation as required
+- [ ] Update the documentation with additional information or changes.
 
 ---
 
 ### Description
 
-<!-- Please insert your description here and provide especially info about the "what" this PR is solving -->
+<!-- Please insert your description here. Please be specific when dscribing what your PR is solving. -->
 
 ### Additional context
 
-<!-- e.g. is there anything you'd like reviewers to focus on? -->
+<!-- Is there anything you’d like the reviewers to focus on? -->
 
 ---
 
-<!-- These allow GitHub Copilot to provide summary for your PR, do not remove it -->
+<!-- Allow GitHub Copilot to provide summary for your PR. Do not remove! -->
 
 copilot:summary
 
